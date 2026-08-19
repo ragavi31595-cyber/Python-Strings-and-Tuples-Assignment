@@ -1,6 +1,5 @@
 # Python-Strings-and-Tuples-Assignment
 This assignment focuses on understanding Python string operations and tuple manipulation, including concatenation, slicing, built-in methods, and tuple operations.
-உங்கள் Assignment-ன் முழுமையான விவரங்களுடன் கூடிய README.md கோப்பின் மாதிரி வடிவம் (Template) இதோ. இதை அப்படியே Copy செய்து உங்கள் GitHub Repo-வின் README.md கோப்பில் பயன்படுத்தலாம்:
 
 Markdown
 # Python Strings and Tuples Assignment
